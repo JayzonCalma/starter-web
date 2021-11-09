@@ -20,7 +20,8 @@ file system.
 
 ## How To Contribute
 
-Sample website with plenty of files for demos
+Please fork this respository and issue a Pull Request for
+review. 
 
 ## Copyright
 2021 Git.Training
