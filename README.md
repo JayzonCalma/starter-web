@@ -13,6 +13,11 @@ provide simple example for Git training
 demos.
 ## Deployment
 
+This is a simple web projrct, deployment
+can be on any web server or even local
+file system.
+
+
 ## How To Contribute
 
 Sample website with plenty of files for demos
