@@ -2,7 +2,7 @@
 
 This is a simple website project for
 showing how to use Git and Github togethr.
-Adding a line
+Adding a line, more changes
 ## Intoduction
 
 This is example is to show different parts
